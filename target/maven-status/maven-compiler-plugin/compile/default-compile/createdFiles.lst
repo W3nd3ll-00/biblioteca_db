@@ -1,6 +1,9 @@
-com\mycompany\biblioteca_db\Esquenta_VA3.class
+com\mycompany\biblioteca_db\model\services\LivroService.class
 com\mycompany\biblioteca_db\exceptions\CadastroException.class
-com\mycompany\biblioteca_db\configurations\MySQL.class
+com\mycompany\biblioteca_db\model\services\AutorService.class
 com\mycompany\biblioteca_db\model\domain\Livro.class
-com\mycompany\biblioteca_db\model\dao\AutorDao.class
 com\mycompany\biblioteca_db\model\domain\Autor.class
+com\mycompany\biblioteca_db\model\dao\LivroDao.class
+com\mycompany\biblioteca_db\Esquenta_VA3.class
+com\mycompany\biblioteca_db\configurations\MySQL.class
+com\mycompany\biblioteca_db\model\dao\AutorDao.class

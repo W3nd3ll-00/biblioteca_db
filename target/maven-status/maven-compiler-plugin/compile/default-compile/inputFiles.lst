@@ -1,6 +1,9 @@
-C:\Users\Wendell\Documents\NetBeansProjects\biblioteca_db\src\main\java\com\mycompany\biblioteca_db\configurations\MySQL.java
-C:\Users\Wendell\Documents\NetBeansProjects\biblioteca_db\src\main\java\com\mycompany\biblioteca_db\Esquenta_VA3.java
-C:\Users\Wendell\Documents\NetBeansProjects\biblioteca_db\src\main\java\com\mycompany\biblioteca_db\exceptions\CadastroException.java
-C:\Users\Wendell\Documents\NetBeansProjects\biblioteca_db\src\main\java\com\mycompany\biblioteca_db\model\dao\AutorDao.java
-C:\Users\Wendell\Documents\NetBeansProjects\biblioteca_db\src\main\java\com\mycompany\biblioteca_db\model\domain\Autor.java
-C:\Users\Wendell\Documents\NetBeansProjects\biblioteca_db\src\main\java\com\mycompany\biblioteca_db\model\domain\Livro.java
+C:\Users\Wendell\Documents\GitHub\biblioteca_db\src\main\java\com\mycompany\biblioteca_db\configurations\MySQL.java
+C:\Users\Wendell\Documents\GitHub\biblioteca_db\src\main\java\com\mycompany\biblioteca_db\Esquenta_VA3.java
+C:\Users\Wendell\Documents\GitHub\biblioteca_db\src\main\java\com\mycompany\biblioteca_db\exceptions\CadastroException.java
+C:\Users\Wendell\Documents\GitHub\biblioteca_db\src\main\java\com\mycompany\biblioteca_db\model\dao\AutorDao.java
+C:\Users\Wendell\Documents\GitHub\biblioteca_db\src\main\java\com\mycompany\biblioteca_db\model\dao\LivroDao.java
+C:\Users\Wendell\Documents\GitHub\biblioteca_db\src\main\java\com\mycompany\biblioteca_db\model\domain\Autor.java
+C:\Users\Wendell\Documents\GitHub\biblioteca_db\src\main\java\com\mycompany\biblioteca_db\model\domain\Livro.java
+C:\Users\Wendell\Documents\GitHub\biblioteca_db\src\main\java\com\mycompany\biblioteca_db\model\services\AutorService.java
+C:\Users\Wendell\Documents\GitHub\biblioteca_db\src\main\java\com\mycompany\biblioteca_db\model\services\LivroService.java
